@@ -30,11 +30,17 @@ Run the following commands to set up your database with Prisma:
 The backend will run at http://localhost:3001.
 
 API Endpoints
+
 Method	Endpoint	Description
+
 GET	    /tasks	    Fetch all tasks
+
 POST	/tasks	    Create a new task
+
 GET     /tasks/:id  Fetch a specific task
+
 PUT	    /tasks/:id	Update a specific task
+
 DELETE	/tasks/:id	Delete a specific task
 
 Database Initialization
